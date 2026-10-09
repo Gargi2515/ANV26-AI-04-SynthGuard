@@ -21,3 +21,11 @@ SynthGuard is an AI-driven web application designed to evaluate, profile, and se
    ```bash
    git clone [https://github.com/Gargi2515/ANV26-AI-04-SynthGuard.git](https://github.com/Gargi2515/ANV26-AI-04-SynthGuard.git)
    cd ANV26-AI-04-SynthGuard
+
+
+
+## 👥 Team
+* **Gargishree V** - Full-Stack Developer & AI Integration
+* **Deepika** - Frontend Developer & UI/UX Design
+* **Divyashree** - Data Engineer & Privacy Analysis
+* **Hema R** - Product Strategy & Presentation
