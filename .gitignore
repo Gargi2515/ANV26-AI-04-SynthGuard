@@ -1,0 +1,13 @@
+# Environment variables (Crucial for API keys and database credentials)
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Node/React (if applicable)
+node_modules/
+build/
+dist/
